@@ -1,6 +1,5 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, NavLink, Routes } from 'react-router-dom';
-import SearchPage from './SearchPage';
 import AdminPage from './AdminPage';
 import './styles.css';
 import Main from './Main';
