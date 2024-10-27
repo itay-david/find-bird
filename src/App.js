@@ -187,11 +187,6 @@ function App() {
           <PhoneCall className="w-6 h-6" />
           {`053-220-9008`}
         </a>
-        <p>איתי</p>
-        <a href={`tel:${`0538283114`}`} className="flex items-center gap-2 text-xl text-blue-700 hover:text-blue-900 transition-all duration-300">
-          <PhoneCall className="w-6 h-6" />
-          {`053-828-3114`}
-        </a>
       </div>  
     </div>
   );
