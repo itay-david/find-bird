@@ -187,6 +187,7 @@ function App() {
           <PhoneCall className="w-6 h-6" />
           {`053-220-9008`}
         </a>
+        <p>רוצים גם להכניס את התוכי שלכם למאגר?</p>
       </div>  
     </div>
   );
