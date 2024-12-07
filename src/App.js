@@ -182,14 +182,14 @@ function App() {
       </div>
       <div>
         <p>רוצים גם להכניס את התוכי שלכם למאגר?</p>
-        <p>זמיר</p>
+        <p>זמיר (לא בשבת)</p>
         <a href={`tel:${`53-220-9008`}`} className="flex items-center gap-2 text-xl text-blue-700 hover:text-blue-900 transition-all duration-300">
           <PhoneCall className="w-6 h-6" />
           {`053-220-9008`}
         </a>
       </div> 
-      <div>
-      <p>רוצים גם להכניס את התוכי שלכם למאגר?</p>
+      <div className="flex items-center">
+      <p>הנהלת תוכיפון אינה אחראית במצב של פריצה ולא תוכלו לטבוע אותה בגין כך.</p>
       </div>
     </div>
   );
